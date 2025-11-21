@@ -135,6 +135,7 @@ Estas técnicas son estándar en la comunidad de *size coding* [5], especialment
 ## Resultado Final
 
 El shader produce un patrón generativo de aproximadamente **400 bytes** que cumple con los requisitos establecidos:
+![Shader](https://github.com/user-attachments/assets/3058f058-4e34-4597-94c1-4d1342557b52)
 
 - Menos de 512 bytes
 - Ejecutable en The Book of Shaders
